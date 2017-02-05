@@ -38,6 +38,8 @@ add_message_files(
   UInt64MultiArray.msg
   UInt8.msg
   UInt8MultiArray.msg
+  NamedReference.msg
+  DataAssociation.msg
 )
 
 generate_messages()
